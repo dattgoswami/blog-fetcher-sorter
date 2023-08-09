@@ -5,6 +5,8 @@
 
 [My-Blog-React-Native](https://github.com/dattgoswami/my-blog-react-native)
 
+[My-Blog-Flutter](https://github.com/dattgoswami/my-blog-flutter)
+
 [My-Blog-Nuxt](https://github.com/dattgoswami/my-blog-nuxt)
 
 [My-Blog-Vue](https://github.com/dattgoswami/my-blog-vue)
